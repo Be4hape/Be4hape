@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **unity, numpy(opencv)**
 
-- 👨‍💻 All of my projects are available [in my github and blog!]
+- 👨‍💻 All of my projects are available in my [github and blog!]
 
 - 📝 I regularly write articles on [https://plus3-be.tistory.com/](https://plus3-be.tistory.com/)
 
