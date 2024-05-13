@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Si Hyeong, aim for Client designer!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Si Hyeong,</h1>
+<h3 align="center">A passionate student, who disire game programmer!</h3>
+
+- 🌱 I’m currently learning **unity, numpy(opencv)**
+
+- 👨‍💻 All of my projects are available [in my github and blog!](in my github and blog!)
+
+- 📝 I regularly write articles on [https://plus3-be.tistory.com/](https://plus3-be.tistory.com/)
+
+- 📫 How to reach me **qkrtlgud95@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
