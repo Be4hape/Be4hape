@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available in my [github and blog!]
 
-- 📝 I regularly write articles on [https://plus3-be.tistory.com/](https://plus3-be.tistory.com/)
+- 📝 I regularly write articles on [https://velog.io/@qkrtlgud20/posts]
 
 - 📫 How to reach me **qkrtlgud20@gmail.com**
 
