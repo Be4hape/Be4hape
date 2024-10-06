@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be4hape&label=Profile%20views&color=0e75b6&style=flat" alt="be4hape" /> </p>
 
-- 🌱 I’m currently learning **unity, numpy(opencv)**
+- 🌱 I’m currently learning **C, pandas, html, machine learning**
 
 - 👨‍💻 All of my projects are available in my [github and blog!]
 
-- 📝 I regularly write articles on [https://velog.io/@qkrtlgud20/posts     plus3-be.tistory.com]
+- 📝 I regularly write articles on [https://velog.io/@qkrtlgud20/posts]
 
 - 📫 How to reach me **si-park@student.42gyeongsan.kr**
 
