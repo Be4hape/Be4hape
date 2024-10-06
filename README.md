@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@qkrtlgud20/posts]
 
-- 📫 How to reach me **qkrtlgud20@gmail.com**
+- 📫 How to reach me **si-park@student.42gyeongsan.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
