@@ -1,6 +1,6 @@
 ##about me!
 
-<h1 align="left">Hi 👋, I'm Si Hyeong,</h1>
+<h1 align="left">안녕하세요!👋, 저는 박시형입니다,</h1>
 <h3 align="left">A passionate student, who desire game programmer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be4hape&label=Profile%20views&color=0e75b6&style=flat" alt="be4hape" /> </p>
