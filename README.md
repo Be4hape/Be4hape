@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently **learning**
 - **[ 24.07.~ ]...**
-**- [ C ], [ Machine Learning ], [ Stochastic Analysis ( Robotics ) ], [ html ( with clone coding ) ], [ Performing Arts Management ( for PM ) ]**
+- **[ C ], [ Machine Learning ], [ Stochastic Analysis ( Robotics ) ], [ html ( with clone coding ) ], [ Performing Arts Management ( for PM ) ]**
 
 
 - 👨‍💻 All of my projects are available in my [github and blog!]
