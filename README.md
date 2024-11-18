@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be4hape&label=Profile%20views&color=0e75b6&style=flat" alt="be4hape" /> </p>
 
-- I'm 42gs( 🇰🇷 ) STUDENT!!
+- I'm 42gs( 🇰🇷 ) STUDENT!
 - 🌱 I’m currently **learning**
 - **[ 24.07.~ ]...**
 - **[ C ], [ Machine Learning ], [ Stochastic Analysis ( Robotics ) ], [ html ( with clone coding ) ], [ Performing Arts Management ( for PM ) ]**
