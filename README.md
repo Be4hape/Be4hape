@@ -8,7 +8,7 @@
 - I'm 42gs( 🇰🇷 ) STUDENT!
 - 🌱 I’m currently **learning**
 - **[ 25.01.~ ]...**
-- **[ C ], [42 cursus]**
+- **[ C ], [ 42 cursus ]**
 
 
 - 👨‍💻 All of my projects are available in my [Github and blog!]
