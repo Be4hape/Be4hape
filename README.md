@@ -7,8 +7,8 @@
 
 - I'm 42gs( 🇰🇷 ) STUDENT!
 - 🌱 I’m currently **learning**
-- **[ 24.07.~ ]...**
-- **[ C ], [ Machine Learning ], [ Stochastic Analysis ( Robotics ) ], [ html ( with clone coding ) ], [ Performing Arts Management ( for PM ) ]**
+- **[ 25.01.~ ]...**
+- **[ C ], [42 cursus]**
 
 
 - 👨‍💻 All of my projects are available in my [Github and blog!]
