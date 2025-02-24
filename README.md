@@ -27,12 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Be4hape&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be4hape&count_icons=true&private=true&theme=tokyonight)
-
-
-![GitHub Stats](https://raw.githubusercontent.com/Be4hape/github-stats-transparent/0d743c067653f8d27085dacceff46c09251f4bc7/generated/languages.svg)
-
-
 ![GitHub Stats](https://raw.githubusercontent.com/Be4hape/github-stats-transparent/0d743c067653f8d27085dacceff46c09251f4bc7/generated/overview.svg)
 
 
