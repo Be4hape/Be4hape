@@ -28,3 +28,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Be4hape&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be4hape&count_icons=true&private=true&theme=tokyonight)
+
+https://raw.githubusercontent.com/Be4hape/github-stats-transparent/c5e83ead4f84c83dae51c9cfc61124a763dff1e9/generated/overview.svg
