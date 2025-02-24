@@ -27,10 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=be4hape&show_icons=true&locale=en&layout=compact" alt="be4hape" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=be4hape&show_icons=true&locale=en" alt="be4hape" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=be4hape&" alt="be4hape" /></p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be4hape)](https://github.com/anuraghazra/github-readme-stats)
 
