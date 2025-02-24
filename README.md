@@ -29,8 +29,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be4hape&count_icons=true&private=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://raw.githubusercontent.com/Be4hape/github-stats-transparent/c5e83ead4f84c83dae51c9cfc61124a763dff1e9/generated/languages.svg)
-
 ![GitHub Stats]((https://raw.githubusercontent.com/Be4hape/github-stats-transparent/c5e83ead4f84c83dae51c9cfc61124a763dff1e9/generated/overview.svg
 ))
 
