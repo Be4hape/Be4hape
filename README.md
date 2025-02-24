@@ -27,8 +27,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=be4hape&show_icons=true&locale=en&layout=compact" alt="be4hape" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be4hape&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be4hape&show_icons=true&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=be4hape&" alt="be4hape" /></p>
