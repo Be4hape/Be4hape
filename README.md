@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d5482732-5cdb-4388-a448-c14184469521)##about me!
-
 <h1 align="left">Hello!👋, I'm Si Hyeong Park,</h1>
 <h3 align="left">A passionate student, who desire game programmer!</h3>
 
