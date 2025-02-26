@@ -25,6 +25,6 @@
 
 ![GitHub Stats](https://raw.githubusercontent.com/Be4hape/github-stats-transparent/d45f017aee1ad56685b22001f37b7a113d3c8809/generated/languages.svg)
 
-![GitHub Stats](https://raw.githubusercontent.com/Be4hape/github-stats-transparent/0d743c067653f8d27085dacceff46c09251f4bc7/generated/overview.svg)
+![GitHub Stats](https://raw.githubusercontent.com/Be4hape/github-stats-transparent/d45f017aee1ad56685b22001f37b7a113d3c8809/generated/overview.svg)
 
 
