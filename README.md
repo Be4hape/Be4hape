@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@qkrtlgud20/posts]
 
-- 📫 How to reach me email : **si-park@student.42gyeongsan.kr**
+- 📫 How to reach me e-mail : **si-park@student.42gyeongsan.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
