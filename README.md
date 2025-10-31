@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be4hape&label=Profile%20views&color=0e75b6&style=flat" alt="be4hape" /> </p>
 
-- I'm 42gs( 🇰🇷 ) STUDENT!
-- 🌱 I’m currently **learning with machine learning, 42 process**
-- **[ 25.01.~ ]...**
-- **[ C ], [ 42 cursus ]**
+- 🌱 I’m currently **learning with data science, Data analyst, SQL, data Literacy, python for analyst**
+- **[ 25.10.~ ]...**
+- **[ SQL ], [ Python ], [ C ]**
 
 
 - 👨‍💻 All of my projects are available in my [Github and blog!]
