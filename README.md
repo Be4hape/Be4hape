@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://plus3-be.tistory.com/]
 
-- 📫 How to reach me e-mail : **si-park@student.42gyeongsan.kr**
+- 📫 How to reach me e-mail : **qkrtlgud95@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
