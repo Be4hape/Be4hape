@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available in my [Github and blog!]
 
-- 📝 I regularly write articles on [https://velog.io/@qkrtlgud20/posts]
+- 📝 I regularly write articles on [https://plus3-be.tistory.com/]
 
 - 📫 How to reach me e-mail : **si-park@student.42gyeongsan.kr**
 
