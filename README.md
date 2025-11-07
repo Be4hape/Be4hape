@@ -14,39 +14,10 @@
 
 - 📫 How to reach me e-mail : **qkrtlgud95@naver.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://plus3-be.tistory.com/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/blog.png" alt="Tistory" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/qkrtlgud95" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://instagram.com/qkrtlgud95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qkrtlgud95" height="30" width="40" /></a> </p>
 
 [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white)](https://plus3-be.tistory.com/)
 
-
-📘 Visit my blog on **Tistory** → [plus3-be.tistory.com](https://plus3-be.tistory.com/)
-
-
-## 📝 Blog & Writing
-- 📖 I write tech and game dev articles on my Tistory blog  
-- 🔗 [https://plus3-be.tistory.com](https://plus3-be.tistory.com)
-
-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://plus3-be.tistory.com/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/blog.png" alt="Tistory Blog" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/qkrtlgud95" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
-[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white)](https://plus3-be.tistory.com/)
 
 
 
