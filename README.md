@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be4hape&label=Profile%20views&color=0e75b6&style=flat" alt="be4hape" /> </p>
 
-- 🌱 I’m currently **learning with data science, Data analyst, SQL, data Literacy, python for analyst**
+- 🌱 I’m currently **learning with data science, Data analyst, SQL, data Literacy, python for analyst, statistics, machine learning**
 - **[ 25.10.~ ]...**
 - **[ SQL ], [ Python ], [ C ]**
 
