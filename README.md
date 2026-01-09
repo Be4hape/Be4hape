@@ -2,7 +2,7 @@
 <h3 align="left">A passionate student, who desire game programmer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be4hape&label=Profile%20views&color=0e75b6&style=flat" alt="be4hape" /> </p>
-
+<br><br>
 목원대학교 - 로봇학과 2019.03 ~ 2025.12
 공학수학, 회로, Solid Works, 지능형 로봇을 만들기 위한 로봇역학, 로봇 기구학, 로봇학습 방법론 - 강화학습, 딥러닝, 모방학습, 머신러닝
 
