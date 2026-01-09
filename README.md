@@ -2,18 +2,17 @@
 <h3 align="left">A passionate student, who desire game programmer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be4hape&label=Profile%20views&color=0e75b6&style=flat" alt="be4hape" /> </p>
-<br><br>
-목원대학교 - 로봇학과 2019.03 ~ 2025.12
+- 목원대학교 - 로봇학과 2019.03 ~ 2025.12
 공학수학, 회로, Solid Works, 지능형 로봇을 만들기 위한 로봇역학, 로봇 기구학, 로봇학습 방법론 - 강화학습, 딥러닝, 모방학습, 머신러닝
 
-SBS - 게임아카데미 2023.06 ~ 2023.10
+- SBS - 게임아카데미 2023.06 ~ 2023.10
 Unity,Unreal - 간단한 게임 만들기, 0 to 10
 
-42경산 2024.07 ~ 2025.09
+- 42경산 2024.07 ~ 2025.09
 C언어 기반 정적 라이브러리, 메모리 할당/해제, 문자열 조작, 포인터 fd, 가변인수 함수, 가상머신, 파티션, hostname, user, ssh, ufw, sudoers, 
 crontab 시간복잡도, 최적화, Unix signal
 
-내일배움캠프 - DataAnalyst 2025.10 ~ 2026.03
+내- 일배움캠프 - DataAnalyst 2025.10 ~ 2026.03
 data analyst, data engineering, data science use mysql, Python to make machine learning
 <br><br><br>
 
