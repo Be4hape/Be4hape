@@ -15,7 +15,7 @@ crontab 시간복잡도, 최적화, Unix signal
 
 내일배움캠프 - DataAnalyst 2025.10 ~ 2026.03
 data analyst, data engineering, data science use mysql, Python to make machine learning
-
+<br><br><br>
 
 - 🌱 I’m currently **learning with data science, Data analyst, SQL, data Literacy, python for analyst, statistics, machine learning**
 - **[ 25.10.~ ]...**
