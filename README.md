@@ -13,7 +13,7 @@ Unity,Unreal - 간단한 게임 만들기, 0 to 10
 C언어 기반 정적 라이브러리, 메모리 할당/해제, 문자열 조작, 포인터 fd, 가변인수 함수, 가상머신, 파티션, hostname, user, ssh, ufw, sudoers, 
 crontab 시간복잡도, 최적화, Unix signal
 
-- 내일배움캠프(IN PROGRESS..) - DataAnalyst 2025.10 ~ 2026.03
+- (IN PROGRESS..)내일배움캠프 - DataAnalyst 2025.10 ~ 2026.03
 data analyst, data engineering, data science use mysql, Python to make machine learning
 <br><br><br>
 
