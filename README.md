@@ -7,7 +7,7 @@
 공학수학, 회로, Solid Works, 지능형 로봇을 만들기 위한 로봇역학, 로봇 기구학, 로봇학습 방법론 - 강화학습, 딥러닝, 모방학습, 머신러닝
 
 - SBS게임아카데미 2023.06 ~ 2023.10
-Unity,Unreal - 간단한 게임 만들기, 0 to 10
+Unity,Unreal - simply make game, 0 to 10
 
 - 42경산 2024.07 ~ 2025.09
 C언어 기반 정적 라이브러리, 메모리 할당/해제, 문자열 조작, 포인터 fd, 가변인수 함수, 가상머신, 파티션, hostname, user, ssh, ufw, sudoers, 
